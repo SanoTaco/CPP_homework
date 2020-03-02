@@ -1,0 +1,15 @@
+﻿  C:\Users\PC\Desktop\OOP\108AEA001_HW13\Cloth.txt
+  复制了 1 个文件
+  Cloth.cpp
+  Customer.cpp
+  Main.cpp
+  Mall.cpp
+c:\users\pc\desktop\oop\108aea001_hw13\mall.cpp(185): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  MallUI.cpp
+c:\users\pc\desktop\oop\108aea001_hw13\mallui.cpp(307): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  Order.cpp
+  Shop.cpp
+  Suite.cpp
+  正在生成代码...
+c:\users\pc\desktop\oop\108aea001_hw13\shop.cpp(34): warning C4715: “Shop::findCloth”: 不是所有的控件路径都返回值
+  108AEA001_HW13.vcxproj -> C:\Users\PC\Desktop\OOP\x64\Debug\108AEA001_HW13.exe
